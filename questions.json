@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "Question1",
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": "2"
+    },
+    {
+      "question": "Question2",
+      "answers": [
+        "AA",
+        "BB",
+        "CC",
+        "None"
+      ],
+      "correctIndex": "1"
+    },
+    {
+      "question": "Question3",
+      "answers": [
+        "AA",
+        "CC",
+        "DD",
+        "None"
+      ],
+      "correctIndex": "4"
+    }
+  ]
+}
