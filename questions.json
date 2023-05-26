@@ -19,16 +19,6 @@
         "None"
       ],
       "correctIndex": "0"
-    },
-    {
-      "question": "Question3",
-      "answers": [
-        "AA",
-        "CC",
-        "DD",
-        "None"
-      ],
-      "correctIndex": "3"
     }
   ]
 }
