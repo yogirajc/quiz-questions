@@ -8,7 +8,7 @@
         "C",
         "D"
       ],
-      "correctIndex": "2"
+      "correctIndex": "1"
     },
     {
       "question": "Question2",
@@ -18,7 +18,7 @@
         "CC",
         "None"
       ],
-      "correctIndex": "1"
+      "correctIndex": "0"
     },
     {
       "question": "Question3",
@@ -28,7 +28,7 @@
         "DD",
         "None"
       ],
-      "correctIndex": "2"
+      "correctIndex": "3"
     }
   ]
 }
